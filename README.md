@@ -49,4 +49,6 @@ Você pode ajustar as configurações no início do arquivo `system_monitor.py`:
 - `HISTORY_LENGTH`: Número de ciclos a serem armazenados no histórico
 - `REFRESH_INTERVAL`: Intervalo de atualização em segundos
 
+![Image](https://github.com/user-attachments/assets/189ae55a-4b61-4535-b140-1747820e7fa6)
+
  
